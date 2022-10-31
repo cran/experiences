@@ -1,0 +1,15 @@
+58c9be5a5dfa6254fb1b1d476da8f84b *DESCRIPTION
+b1ec250e09b8d25893c53f6ade775c92 *LICENSE
+35b1b45d1f6e5ecbc5e36f9af30de38e *NAMESPACE
+4ae94bedfa33ddf9549b410d2bce7baa *R/compare_benchmark_event.R
+c6a3ba00bc7a58b95844b4d880dd7526 *R/compare_benchmark_score.R
+60e8df2be98b0761db8c7a3ec018c11d *R/compare_benchmark_time.R
+eb56b7925b742d2a22045564ad37346e *R/experiences-package.R
+1e4449bedccd2c349e29eb59ae6d7878 *R/t_dist_one_tailed.R
+406a8c728e711fcfa75fcbf1140e0b90 *R/t_dist_two_tailed.R
+c9e42e68976941f696699bbb1a352f5a *man/compare_benchmark_event.Rd
+8582c882bbcc27c8ffa9b0addb8b6a09 *man/compare_benchmark_score.Rd
+538808411b2f01d204f5ce78498aefc7 *man/compare_benchmark_time.Rd
+dbb435f7253c822e7d9bd030bdfed20b *man/experiences-package.Rd
+d504aa2f7d2c95e424e89fba7472838e *man/t_dist_one_tailed.Rd
+bdc71ce1cb2db9cd89f9c25de99ab23a *man/t_dist_two_tailed.Rd
